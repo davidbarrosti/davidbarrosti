@@ -15,8 +15,8 @@
 </div><br>
 
 <div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=AdrianoCoutinho&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="Adriano Coutinho" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianoCoutinho&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="Adriano Coutinho" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=davidbarrosti&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="David Barros" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidbarrosti&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="Adriano Coutinho" />
 </div>
     
 ---
