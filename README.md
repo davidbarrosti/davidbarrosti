@@ -8,6 +8,7 @@
 
 <div align="left">
     <h3>👨🏽‍💻 Sobre mim:</h3>
+        <p>•  <b>Health Informatics | IT Healthcare |</b></p>
         <p>• 📚 Estudando atualmente: <b>Programa Starter Full Stack Web Developer na GrowDev.</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Escrever )</b></p>
         <p>• 💬 Pergunte-me sobre: <b>Qualquer coisa,eu sou bastante curioso e gosto de aprender</b></p>
