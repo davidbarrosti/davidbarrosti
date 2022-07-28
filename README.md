@@ -11,7 +11,7 @@
         <p>•  <b>Health Informatics | IT Healthcare |</b></p>
         <p>• 📚 Estudando atualmente: <b>Programa Starter Full Stack Web Developer na GrowDev.</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Escrever )</b></p>
-        <p>• 💬 Pergunte-me sobre: <b>Qualquer coisa,eu sou bastante curioso e gosto de aprender</b></p>
+        <p>• 💬  Buscando transformar sonhos em realidade através da programação.</b></p>
         <p>• 📫 Como me achar: <b>davidtisjm@gmail.com</b></p>
 </div><br>
 
